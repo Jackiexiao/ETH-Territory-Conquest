@@ -2,7 +2,8 @@
 
 A blockchain-based territory conquest game where players can claim and own squares on an 8x8 grid using their Ethereum wallet.
 
-![Game Preview](https://images.unsplash.com/photo-1616499452581-cc7f8e3dd3c7?auto=format&fit=crop&q=80&w=2000&h=600)
+<img width="437" alt="image" src="https://github.com/user-attachments/assets/ea3fc365-6db9-4a79-8a54-32767588c80a">
+
 
 ## Features ✨
 
